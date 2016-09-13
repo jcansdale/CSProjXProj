@@ -1,7 +1,7 @@
 ﻿namespace Tests
 {
-    using NUnit.Framework;
     using Targets;
+    using NUnit.Framework;
 
     public class TargetTests
     {
